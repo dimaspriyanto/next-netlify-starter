@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Insta Download" />
+        <Header title="Redirect" />
         <p className="description">
-          Welcome to Insta Download
+          Redirect Insta Download
         </p>
       </main>
 

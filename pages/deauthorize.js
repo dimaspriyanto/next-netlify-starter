@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Insta Download" />
+        <Header title="Deauthorize" />
         <p className="description">
-          Welcome to Insta Download
+          Deauthorize Insta Download
         </p>
       </main>
 
